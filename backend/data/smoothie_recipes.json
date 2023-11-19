@@ -1,0 +1,3521 @@
+[
+  {
+    "title": "Citrus Zing",
+    "image": "citrus_zing_smoothie.jpg",
+    "description": "Energize your day with the zesty burst of citrus fruits in this invigorating smoothie.",
+    "preptime": "5 minutes",
+    "rating": 4.4,
+    "ingredients": [
+      "1 orange, peeled",
+      "1/2 grapefruit, peeled",
+      "1/2 lemon, juiced",
+      "1/2 cup pineapple chunks",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "orange",
+      "grapefruit",
+      "lemon",
+      "pineapple",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Very Berry Protein Boost",
+    "image": "very_berry_protein_smoothie.jpg",
+    "description": "A protein-packed smoothie featuring a mix of berries to keep you fueled and satisfied.",
+    "preptime": "6 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup mixed berries (strawberries, blueberries, raspberries)",
+      "1/2 cup plain Greek yogurt",
+      "1/2 cup almond milk",
+      "1 scoop protein powder",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "strawberries",
+      "blueberries",
+      "raspberries",
+      "berries",
+      "yogurt",
+      "greek yogurt",
+      "protein",
+      "protein powder",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Pineapple Coconut Dream",
+    "image": "pineapple_coconut_dream_smoothie.jpg",
+    "description": "Transport yourself to a tropical paradise with the combination of pineapple and coconut.",
+    "preptime": "5 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "1 cup pineapple chunks",
+      "1/2 cup coconut milk",
+      "1/2 cup coconut water",
+      "1 tablespoon chia seeds",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "pineapple",
+      "milk",
+      "coconut milk",
+      "coconut",
+      "coconut water",
+      "chia",
+      "seeds",
+      "chia seeds",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Blueberry Almond Bliss",
+    "image": "blueberry_almond_bliss_smoothie.jpg",
+    "description": "Savor the delightful blend of blueberries and almond in this creamy smoothie.",
+    "preptime": "7 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 cup blueberries",
+      "1/2 cup almond butter",
+      "1/2 cup almond milk",
+      "1 tablespoon maple syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "blueberries",
+      "berries",
+      "almond",
+      "almond butter",
+      "almond milk",
+      "maple",
+      "syrup",
+      "milk",
+      "butter",
+      "maple syrup",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Mint Chocolate Indulgence",
+    "image": "mint_chocolate_indulgence_smoothie.jpg",
+    "description": "Treat yourself to a refreshing yet indulgent smoothie with the pairing of mint and chocolate.",
+    "preptime": "6 minutes",
+    "rating": 4.5,
+    "ingredients": [
+      "Handful of fresh mint leaves",
+      "2 tablespoons cocoa powder",
+      "1 banana",
+      "1/2 cup milk (dairy or plant-based)",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mint",
+      "mint leaves",
+      "cocoa",
+      "cocoa powder",
+      "banana",
+      "honey",
+      "milk",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Cucumber Melon Refresher",
+    "image": "cucumber_melon_refresher_smoothie.jpg",
+    "description": "Stay hydrated with the light and refreshing combination of cucumber and melon.",
+    "preptime": "5 minutes",
+    "rating": 4.3,
+    "ingredients": [
+      "1/2 cucumber, peeled and sliced",
+      "1 cup honeydew melon, cubed",
+      "1/2 lime, juiced",
+      "1/2 cup coconut water",
+      "Mint leaves for garnish",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "cucumber",
+      "honeydew melon",
+      "melon",
+      "lime",
+      "coconut",
+      "coconut water",
+      "water",
+      "mint",
+      "mint leaves",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Turmeric Pineapple Glow",
+    "image": "turmeric_pineapple_glow_smoothie.jpg",
+    "description": "Boost your immunity with this vibrant smoothie featuring turmeric and pineapple.",
+    "preptime": "6 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "1 cup fresh pineapple chunks",
+      "1/2 teaspoon turmeric powder",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "pineapple",
+      "turmeric",
+      "turmeric powder",
+      "yogurt",
+      "greek yogurt",
+      "honey",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Cherry Vanilla Delight",
+    "image": "cherry_vanilla_delight_smoothie.jpg",
+    "description": "Indulge in the sweet and aromatic blend of cherries and vanilla.",
+    "preptime": "7 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup sweet cherries, pitted",
+      "1/2 cup vanilla yogurt",
+      "1/2 cup almond milk",
+      "1 tablespoon almond butter",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "cherries",
+      "yogurt",
+      "vanilla yogurt",
+      "almond milk",
+      "almond",
+      "butter",
+      "milk",
+      "almond butter",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Raspberry Coconut Bliss",
+    "image": "raspberry_coconut_bliss_smoothie.jpg",
+    "description": "Experience the tropical twist of raspberries and coconut in this creamy delight.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 cup fresh raspberries",
+      "1/2 cup coconut milk",
+      "1/2 cup plain yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "raspberries",
+      "coconut milk",
+      "coconut",
+      "milk",
+      "yogurt",
+      "honey",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Papaya Passion Elixir",
+    "image": "papaya_passion_elixir_smoothie.jpg",
+    "description": "Sip on the exotic flavors of papaya and passion fruit in this tropical elixir.",
+    "preptime": "8 minutes",
+    "rating": 4.5,
+    "ingredients": [
+      "1 cup ripe papaya chunks",
+      "1/2 cup passion fruit juice",
+      "1/2 cup orange juice",
+      "1 tablespoon chia seeds",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "papaya",
+      "fruit juice",
+      "orange",
+      "chia",
+      "seeds",
+      "chia seeds",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Avocado Kale Powerhouse",
+    "image": "avocado_kale_powerhouse_smoothie.jpg",
+    "description": "Fuel your day with the nutrient-packed goodness of avocado and kale.",
+    "preptime": "7 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1/2 avocado",
+      "Handful of kale leaves, stems removed",
+      "1 banana",
+      "1/2 cup almond milk",
+      "1 tablespoon chia seeds",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "avocado",
+      "kale",
+      "kale leaves",
+      "banana",
+      "lemon",
+      "almond milk",
+      "milk",
+      "almond",
+      "chia seeds",
+      "chia",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Mocha Banana Buzz",
+    "image": "mocha_banana_buzz_smoothie.jpg",
+    "description": "Wake up with the delightful blend of coffee, banana, and chocolate.",
+    "preptime": "5 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 banana",
+      "1/2 cup brewed coffee, cooled",
+      "2 tablespoons cocoa powder",
+      "1/2 cup milk (dairy or plant-based)",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "banana",
+      "coffee",
+      "cocoa powder",
+      "cocoa",
+      "milk",
+      "honey",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Pomegranate Berry Burst",
+    "image": "pomegranate_berry_burst_smoothie.jpg",
+    "description": "Experience a burst of antioxidants with the flavors of pomegranate and mixed berries.",
+    "preptime": "6 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "1/2 cup pomegranate seeds",
+      "1/2 cup blueberries",
+      "1/2 cup raspberries",
+      "1/2 cup cranberry juice",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "pomegranate",
+      "pomegranate seeds",
+      "blueberries",
+      "raspberries",
+      "cranberry",
+      "cranberry juice",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Coconut Lime Cooler",
+    "image": "coconut_lime_cooler_smoothie.jpg",
+    "description": "Stay cool with the tropical combination of coconut and lime in this refreshing smoothie.",
+    "preptime": "5 minutes",
+    "rating": 4.5,
+    "ingredients": [
+      "1/2 cup coconut water",
+      "1/2 cup coconut milk",
+      "1 lime, juiced",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "coconut",
+      "coconut milk",
+      "coconut water",
+      "lime",
+      "agave",
+      "agave syrup",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Apple Cinnamon Crunch",
+    "image": "apple_cinnamon_crunch_smoothie.jpg",
+    "description": "Enjoy the comforting flavors of apple and cinnamon in this autumn-inspired smoothie.",
+    "preptime": "8 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 apple, cored and sliced",
+      "1/2 teaspoon ground cinnamon",
+      "1/2 cup oats",
+      "1/2 cup vanilla yogurt",
+      "1 cup almond milk",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "apple",
+      "cinnamon",
+      "oats",
+      "yogurt",
+      "vanilla yogurt",
+      "almond milk",
+      "milk",
+      "almond",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Cherry Almond Bliss",
+    "image": "cherry_almond_bliss_smoothie.jpg",
+    "description": "Indulge in the sweet and nutty combination of cherries and almonds.",
+    "preptime": "6 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup sweet cherries, pitted",
+      "1/4 cup almonds",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "cherries",
+      "almond",
+      "milk",
+      "almond milk",
+      "honey",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Mango Matcha Madness",
+    "image": "mango_matcha_madness_smoothie.jpg",
+    "description": "Boost your energy with the vibrant flavors of mango and matcha green tea.",
+    "preptime": "5 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 cup fresh mango chunks",
+      "1 teaspoon matcha green tea powder",
+      "1/2 cup coconut water",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mango",
+      "tea",
+      "green tea",
+      "coconut water",
+      "coconut",
+      "agave syrup",
+      "agave",
+      "water",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Raspberry Lemonade Quencher",
+    "image": "raspberry_lemonade_quencher_smoothie.jpg",
+    "description": "Sip on the tangy and refreshing blend of raspberries and lemonade.",
+    "preptime": "4 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "1 cup fresh raspberries",
+      "1/2 lemon, juiced",
+      "1/4 cup honey",
+      "1/2 cup water",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "raspberries",
+      "lemon",
+      "honey",
+      "water",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Carrot Cake Smoothie",
+    "image": "carrot_cake_smoothie.jpg",
+    "description": "Enjoy the flavors of carrot cake in a healthy and satisfying smoothie.",
+    "preptime": "7 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1 carrot, peeled and sliced",
+      "1/4 cup walnuts",
+      "1/2 teaspoon ground cinnamon",
+      "1/4 teaspoon nutmeg",
+      "1 cup almond milk",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "carrot",
+      "walnut",
+      "cinnamon",
+      "nutmeg",
+      "almond milk",
+      "almond",
+      "milk",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Blue Spirulina Elixir",
+    "image": "blue_spirulina_elixir_smoothie.jpg",
+    "description": "Experience the vibrant blue hues and health benefits of spirulina in this exotic elixir.",
+    "preptime": "6 minutes",
+    "rating": 4.5,
+    "ingredients": [
+      "1 teaspoon blue spirulina powder",
+      "1 banana",
+      "1/2 cup pineapple chunks",
+      "1/2 cup coconut water",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "blue spirulina powder",
+      "spirulina",
+      "blue spirulina",
+      "banana",
+      "pineapple",
+      "coconut water",
+      "coconut",
+      "water",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Peach Raspberry Paradise",
+    "image": "peach_raspberry_paradise_smoothie.jpg",
+    "description": "Escape to a fruity paradise with the combination of peaches and raspberries.",
+    "preptime": "5 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "1 cup sliced peaches",
+      "1/2 cup fresh raspberries",
+      "1/2 cup vanilla yogurt",
+      "1/2 cup almond milk",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "peach",
+      "peaches",
+      "raspberries",
+      "yogurt",
+      "vanilla yogurt",
+      "almond milk",
+      "almond",
+      "milk",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Cocoa Banana Crunch",
+    "image": "cocoa_banana_crunch_smoothie.jpg",
+    "description": "Satisfy your chocolate cravings with the crunch of almonds and the sweetness of banana.",
+    "preptime": "6 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 banana",
+      "2 tablespoons cocoa powder",
+      "1/4 cup almonds",
+      "1 cup milk (dairy or plant-based)",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "banana",
+      "cocoa powder",
+      "cocoa",
+      "almond",
+      "milk",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Strawberry Kiwi Splash",
+    "image": "strawberry_kiwi_splash_smoothie.jpg",
+    "description": "Experience the refreshing splash of strawberry and kiwi in this vibrant smoothie.",
+    "preptime": "4 minutes",
+    "rating": 4.5,
+    "ingredients": [
+      "1 cup strawberries, hulled",
+      "2 kiwis, peeled and sliced",
+      "1/2 cup orange juice",
+      "1/2 cup water",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "strawberries",
+      "kiwis",
+      "orange",
+      "orange juice",
+      "water",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Almond Joy Delight",
+    "image": "almond_joy_delight_smoothie.jpg",
+    "description": "Indulge in the flavors of coconut, chocolate, and almonds with this delightful smoothie.",
+    "preptime": "7 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1/2 cup shredded coconut",
+      "2 tablespoons cocoa powder",
+      "1/4 cup almonds",
+      "1 banana",
+      "1 cup coconut milk",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "coconut",
+      "cocoa powder",
+      "almonds",
+      "coconut milk",
+      "coconut",
+      "milk",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Raspberry Avocado Elegance",
+    "image": "raspberry_avocado_elegance_smoothie.jpg",
+    "description": "Elevate your smoothie experience with the creamy richness of avocado and the tartness of raspberries.",
+    "preptime": "8 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1/2 avocado",
+      "1 cup fresh raspberries",
+      "1/2 cup vanilla yogurt",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "avocado",
+      "raspberries",
+      "vanilla yogurt",
+      "yogurt",
+      "almond milk",
+      "almond",
+      "milk",
+      "honey",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Minty Pineapple Delight",
+    "image": "minty_pineapple_delight_smoothie.jpg",
+    "description": "Refresh your senses with the cooling combination of mint and pineapple.",
+    "preptime": "5 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "1 cup pineapple chunks",
+      "Handful of fresh mint leaves",
+      "1/2 lime, juiced",
+      "1/2 cup coconut water",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mint leaves",
+      "pineapple",
+      "mint",
+      "lime",
+      "coconut water",
+      "coconut",
+      "water",
+      "icecubes",
+      "ice cubes"
+    ]
+  },
+  {
+    "title": "Banana Blueberry Bliss",
+    "image": "banana_blueberry_bliss_smoothie.jpg",
+    "description": "Enjoy the classic duo of banana and blueberry in this blissful smoothie.",
+    "preptime": "6 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "2 bananas",
+      "1 cup blueberries",
+      "1/2 cup vanilla yogurt",
+      "1/2 cup almond milk",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "banana",
+      "blueberries",
+      "vanilla yogurt",
+      "yogurt",
+      "almond milk",
+      "almond",
+      "milk",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Tropical Mango Pineapple",
+    "image": "tropical_mango_pineapple_smoothie.jpg",
+    "description": "Transport yourself to the tropics with the sweet blend of mango and pineapple.",
+    "preptime": "7 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 cup fresh mango chunks",
+      "1 cup pineapple chunks",
+      "1/2 cup coconut milk",
+      "1/2 cup orange juice",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mango",
+      "pineapple",
+      "coconut milk",
+      "coconut",
+      "milk",
+      "orange juice",
+      "orange",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Blueberry Lemon Smoothie",
+    "image": "blueberry_lemon_smoothie.jpg",
+    "description": "Savor the citrusy kick of lemon paired with the sweetness of blueberries.",
+    "preptime": "5 minutes",
+    "rating": 4.5,
+    "ingredients": [
+      "1 cup blueberries",
+      "1/2 lemon, juiced",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "blueberries",
+      "lemon",
+      "greek yogurt",
+      "yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Mango Turmeric Elixir",
+    "image": "mango_turmeric_elixir_smoothie.jpg",
+    "description": "Experience the anti-inflammatory benefits of turmeric in this golden elixir.",
+    "preptime": "6 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1 cup fresh mango chunks",
+      "1/2 teaspoon turmeric powder",
+      "1/2 cup plain yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mango",
+      "turmeric powder",
+      "turmeric",
+      "yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Raspberry Almond Joy",
+    "image": "raspberry_almond_joy_smoothie.jpg",
+    "description": "A delightful blend of raspberries, almonds, and coconut for a taste of joy.",
+    "preptime": "7 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup fresh raspberries",
+      "1/4 cup almonds",
+      "1/2 cup coconut milk",
+      "1 tablespoon cocoa powder",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "raspberries",
+      "almond",
+      "almonds",
+      "coconut milk",
+      "coconut",
+      "milk",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Cinnamon Apple Pie Smoothie",
+    "image": "cinnamon_apple_pie_smoothie.jpg",
+    "description": "Enjoy the flavors of apple pie in a healthier, sippable form with a hint of cinnamon.",
+    "preptime": "8 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 apple, cored and sliced",
+      "1/2 teaspoon ground cinnamon",
+      "1/4 cup oats",
+      "1/2 cup vanilla yogurt",
+      "1 cup almond milk",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "apple",
+      "cinnamon",
+      "oats",
+      "vanilla yogurt",
+      "yogurt",
+      "almond milk",
+      "almond",
+      "milk",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Pineapple Basil Blast",
+    "image": "pineapple_basil_blast_smoothie.jpg",
+    "description": "Experience a burst of freshness with the combination of pineapple and basil.",
+    "preptime": "6 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "1 cup pineapple chunks",
+      "Handful of fresh basil leaves",
+      "1/2 cup coconut water",
+      "1/2 lime, juiced",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "pineapple",
+      "basil",
+      "basil leaves",
+      "coconut water",
+      "coconut",
+      "water",
+      "lime",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Chocolate Raspberry Truffle",
+    "image": "chocolate_raspberry_truffle_smoothie.jpg",
+    "description": "Indulge in the rich, chocolatey goodness paired with the tartness of raspberries.",
+    "preptime": "5 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1 cup fresh raspberries",
+      "2 tablespoons cocoa powder",
+      "1/2 cup chocolate almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "raspberries",
+      "cocoa powder",
+      "cocoa",
+      "almond milk",
+      "almond",
+      "milk",
+      "chocolate almond milk",
+      "chocolate",
+      "ice cubes",
+      "honey",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Ginger Peach Quencher",
+    "image": "ginger_peach_quencher_smoothie.jpg",
+    "description": "Quench your thirst with the zesty kick of ginger combined with sweet peaches.",
+    "preptime": "5 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup sliced peaches",
+      "1/2 teaspoon fresh ginger, grated",
+      "1/2 cup orange juice",
+      "1/2 cup water",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "peach",
+      "peaches",
+      "giner",
+      "orange juice",
+      "orange",
+      "water",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Choco-Berry Explosion",
+    "image": "choco_berry_explosion_smoothie.jpg",
+    "description": "Experience a burst of chocolate and berry flavors in this indulgent smoothie.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 cup mixed berries (strawberries, blueberries, raspberries)",
+      "2 tablespoons cocoa powder",
+      "1/2 cup chocolate almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "berries",
+      "raspberries",
+      "blueberries",
+      "strawberries",
+      "cocoa powder",
+      "cocoa",
+      "almond milk",
+      "chocolate almond milk",
+      "chocolate",
+      "milk",
+      "almond",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Mango Mint Mojito",
+    "image": "mango_mint_mojito_smoothie.jpg",
+    "description": "Sip on the tropical vibes with mango, mint, and a hint of lime.",
+    "preptime": "7 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup fresh mango chunks",
+      "Handful of fresh mint leaves",
+      "1/2 lime, juiced",
+      "1/2 cup coconut water",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mango",
+      "mint leaves",
+      "mint",
+      "lime",
+      "coconut water",
+      "coconut",
+      "water",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Pomegranate Pistachio Elegance",
+    "image": "pomegranate_pistachio_elegance_smoothie.jpg",
+    "description": "Elevate your smoothie with the delightful combination of pomegranate and pistachio.",
+    "preptime": "8 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1/2 cup pomegranate seeds",
+      "1/4 cup pistachios",
+      "1/2 cup vanilla yogurt",
+      "1/2 cup almond milk",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "pomegranate seeds",
+      "pomegranate",
+      "pista",
+      "pistachios",
+      "vanilla yogurt",
+      "yogurt",
+      "almond milk",
+      "almond",
+      "milk",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Tropical Turmeric Twist",
+    "image": "tropical_turmeric_twist_smoothie.jpg",
+    "description": "Give your body a boost with the tropical goodness of turmeric and pineapple.",
+    "preptime": "6 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "1/2 teaspoon turmeric powder",
+      "1 cup fresh pineapple chunks",
+      "1/2 cup coconut water",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "turmeric powder",
+      "turmeric",
+      "coconut water",
+      "coconut",
+      "water",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Peach Basil Breeze",
+    "image": "peach_basil_breeze_smoothie.jpg",
+    "description": "Enjoy the refreshing breeze of peach and basil in this unique smoothie.",
+    "preptime": "5 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup sliced peaches",
+      "Handful of fresh basil leaves",
+      "1/2 cup almond milk",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "peach",
+      "peaches",
+      "basil leaves",
+      "basil",
+      "almond milk",
+      "milk",
+      "almond",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Matcha Pineapple Splash",
+    "image": "matcha_pineapple_splash_smoothie.jpg",
+    "description": "Revitalize your day with the vibrant combination of matcha and pineapple.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 teaspoon matcha powder",
+      "1 cup fresh pineapple chunks",
+      "1/2 cup coconut water",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "matcha",
+      "matcha powder",
+      "pineapple",
+      "coconut water",
+      "coconut",
+      "water",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Banana Berry Protein Boost",
+    "image": "banana_berry_protein_boost_smoothie.jpg",
+    "description": "Fuel your workout with this protein-packed blend of banana and mixed berries.",
+    "preptime": "7 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "2 bananas",
+      "1 cup mixed berries (strawberries, blueberries, raspberries)",
+      "1/2 cup Greek yogurt",
+      "1 scoop protein powder",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "banana",
+      "berries",
+      "strawberries",
+      "raspberries",
+      "blueberries",
+      "greek yogurt",
+      "yogurt",
+      "protein powder",
+      "protein",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Coconut Mango Lassi",
+    "image": "coconut_mango_lassi_smoothie.jpg",
+    "description": "Experience the tropical twist of coconut and mango in this lassi-inspired smoothie.",
+    "preptime": "5 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1 cup fresh mango chunks",
+      "1/2 cup coconut milk",
+      "1/2 cup plain yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mango",
+      "coconut milk",
+      "milk",
+      "coconut",
+      "yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Blackberry Basil Infusion",
+    "image": "blackberry_basil_infusion_smoothie.jpg",
+    "description": "Infuse your day with the unique combination of blackberries and fresh basil.",
+    "preptime": "6 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "1 cup fresh blackberries",
+      "Handful of fresh basil leaves",
+      "1/2 cup almond milk",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "blackberries",
+      "basil leaves",
+      "basil",
+      "almond milk",
+      "almond",
+      "milk",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Orange Ginger Zest",
+    "image": "orange_ginger_zest_smoothie.jpg",
+    "description": "Wake up your taste buds with the zesty blend of orange and ginger.",
+    "preptime": "5 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 orange, peeled",
+      "1/2 teaspoon fresh ginger, grated",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "orange",
+      "giner",
+      "greek yogurt",
+      "yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Cocoa Coconut Dream",
+    "image": "cocoa_coconut_dream_smoothie.jpg",
+    "description": "Indulge in the dreamy combination of cocoa and coconut in this rich smoothie.",
+    "preptime": "7 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "2 tablespoons cocoa powder",
+      "1/2 cup shredded coconut",
+      "1 banana",
+      "1 cup coconut milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "cocoa powder",
+      "cocoa",
+      "coconut",
+      "coconut milk",
+      "banana",
+      "milk",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Raspberry Rose Elegance",
+    "image": "raspberry_rose_elegance_smoothie.jpg",
+    "description": "Experience elegance with the floral notes of rose and the tartness of raspberries.",
+    "preptime": "6 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup fresh raspberries",
+      "1 teaspoon rose water",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "raspberries",
+      "rose water",
+      "rose",
+      "greek yogurt",
+      "yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Mango Chia Bliss",
+    "image": "mango_chia_bliss_smoothie.jpg",
+    "description": "Enjoy the blissful combination of mango and chia seeds in this nutritious smoothie.",
+    "preptime": "5 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1 cup fresh mango chunks",
+      "1 tablespoon chia seeds",
+      "1/2 cup almond milk",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mango",
+      "chia seeds",
+      "chia",
+      "seeds",
+      "almond milk",
+      "almond",
+      "milk",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Peach Raspberry Mint Fusion",
+    "image": "peach_raspberry_mint_fusion_smoothie.jpg",
+    "description": "Fuse the sweet flavors of peach and raspberry with a hint of fresh mint.",
+    "preptime": "8 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "1 cup sliced peaches",
+      "1/2 cup fresh raspberries",
+      "Handful of fresh mint leaves",
+      "1/2 cup coconut water",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "peach",
+      "peaches",
+      "mint leaves",
+      "mint",
+      "coconut water",
+      "coconut",
+      "water",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Blueberry Lavender Delight",
+    "image": "blueberry_lavender_delight_smoothie.jpg",
+    "description": "Delight your senses with the calming aroma of lavender and the sweetness of blueberries.",
+    "preptime": "5 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup blueberries",
+      "1 teaspoon dried lavender buds",
+      "1/2 cup vanilla yogurt",
+      "1/2 cup almond milk",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "blueberries",
+      "lavender buds",
+      "vanilla yogurt",
+      "yogurt",
+      "almond milk",
+      "almond",
+      "milk",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Cherry Vanilla Cream",
+    "image": "cherry_vanilla_cream_smoothie.jpg",
+    "description": "Indulge in the sweet and creamy combination of cherries and vanilla.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 cup sweet cherries, pitted",
+      "1/2 cup vanilla yogurt",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "cherries",
+      "vanilla yogurt",
+      "yogurt",
+      "almond milk",
+      "almond",
+      "milk",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Papaya Passion Twist",
+    "image": "papaya_passion_twist_smoothie.jpg",
+    "description": "Experience the tropical twist of papaya combined with the passion of mango.",
+    "preptime": "7 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup fresh papaya chunks",
+      "1/2 cup fresh mango chunks",
+      "1/2 cup coconut water",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "papaya",
+      "mango",
+      "coconut water",
+      "coconut",
+      "water",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Turmeric Pineapple Zing",
+    "image": "turmeric_pineapple_zing_smoothie.jpg",
+    "description": "Add a zing to your day with the anti-inflammatory benefits of turmeric and the sweetness of pineapple.",
+    "preptime": "5 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1/2 teaspoon turmeric powder",
+      "1 cup fresh pineapple chunks",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "turmeric powder",
+      "turmeric",
+      "pineapple",
+      "honey",
+      "greek yogurt",
+      "yogurt",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Melon Mint Cooler",
+    "image": "melon_mint_cooler_smoothie.jpg",
+    "description": "Stay cool with the refreshing blend of melon and mint.",
+    "preptime": "8 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "1 cup melon chunks (cantaloupe or honeydew)",
+      "Handful of fresh mint leaves",
+      "1/2 lime, juiced",
+      "1/2 cup coconut water",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "melon",
+      "cantaloupe",
+      "honeydew",
+      "mint leaves",
+      "mint",
+      "coconut water",
+      "water",
+      "coconut",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Hazelnut Banana Delight",
+    "image": "hazelnut_banana_delight_smoothie.jpg",
+    "description": "Delight in the nutty goodness of hazelnuts paired with the sweetness of banana.",
+    "preptime": "5 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "2 bananas",
+      "1/4 cup hazelnuts",
+      "1/2 cup hazelnut milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "banana",
+      "hazelnuts",
+      "hazelnut",
+      "honey",
+      "milk",
+      "hazelnut milk",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Strawberry Basil Burst",
+    "image": "strawberry_basil_burst_smoothie.jpg",
+    "description": "Experience a burst of flavors with the sweet taste of strawberries and the freshness of basil.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 cup strawberries, hulled",
+      "Handful of fresh basil leaves",
+      "1/2 cup vanilla yogurt",
+      "1/2 cup almond milk",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "strawberries",
+      "basil leaves",
+      "basil",
+      "vanilla yogurt",
+      "yogurt",
+      "almond milk",
+      "almond",
+      "milk",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Kiwi Coconut Fusion",
+    "image": "kiwi_coconut_fusion_smoothie.jpg",
+    "description": "Fusion of tropical flavors with the tartness of kiwi and the creaminess of coconut.",
+    "preptime": "7 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "2 kiwis, peeled and sliced",
+      "1/2 cup coconut milk",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "kiwi",
+      "kiwis",
+      "coconut milk",
+      "coconut",
+      "milk",
+      "yogurt",
+      "greek yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Mint Chocolate Chip Marvel",
+    "image": "mint_chocolate_chip_marvel_smoothie.jpg",
+    "description": "Indulge in a refreshing minty delight with the richness of chocolate chips.",
+    "preptime": "5 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "Handful of fresh mint leaves",
+      "2 tablespoons chocolate chips",
+      "1/2 cup vanilla yogurt",
+      "1/2 cup almond milk",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mint leaves",
+      "mint",
+      "chocolate",
+      "chocolate chips",
+      "almond milk",
+      "milk",
+      "almond",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Pineapple Ginger Energizer",
+    "image": "pineapple_ginger_energizer_smoothie.jpg",
+    "description": "Energize your day with the zesty kick of ginger and the sweetness of pineapple.",
+    "preptime": "8 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "1 cup pineapple chunks",
+      "1/2 teaspoon fresh ginger, grated",
+      "1/2 cup coconut water",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "pineapple",
+      "giner",
+      "coconut water",
+      "coconut",
+      "water",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Blueberry Coconut Bliss",
+    "image": "blueberry_coconut_bliss_smoothie.jpg",
+    "description": "Experience bliss with the antioxidant power of blueberries and the creaminess of coconut.",
+    "preptime": "5 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup blueberries",
+      "1/2 cup coconut milk",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "blueberries",
+      "coconut milk",
+      "milk",
+      "coconut",
+      "greek yogurt",
+      "yogurt",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Dragon Fruit Delight",
+    "image": "dragon_fruit_delight_smoothie.jpg",
+    "description": "Experience the exotic delight of dragon fruit in this vibrant smoothie.",
+    "preptime": "7 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup fresh dragon fruit, cubed",
+      "1/2 cup coconut water",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "dragon fruit",
+      "coconut water",
+      "coconut",
+      "water",
+      "greek yogurt",
+      "yogurt",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Mango Pine Nut Bliss",
+    "image": "mango_pine_nut_bliss_smoothie.jpg",
+    "description": "Indulge in the tropical bliss of mango paired with the crunchiness of pine nuts.",
+    "preptime": "5 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1 cup fresh mango chunks",
+      "2 tablespoons pine nuts",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mango",
+      "pine nuts",
+      "pine",
+      "almond milk",
+      "almond",
+      "milk",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Peach Basil Sunrise",
+    "image": "peach_basil_sunrise_smoothie.jpg",
+    "description": "Start your day with the sweet sunrise of peaches and the freshness of basil.",
+    "preptime": "8 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "1 cup sliced peaches",
+      "Handful of fresh basil leaves",
+      "1/2 cup orange juice",
+      "1/2 cup coconut water",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "peach",
+      "peaches",
+      "basil leaves",
+      "basil",
+      "orange juice",
+      "orange",
+      "coconut water",
+      "coconut",
+      "water",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Pineapple Kale Powerhouse",
+    "image": "pineapple_kale_powerhouse_smoothie.jpg",
+    "description": "Power up your day with the nutritional powerhouse of pineapple and kale.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 cup pineapple chunks",
+      "Handful of kale leaves, stems removed",
+      "1/2 cup Greek yogurt",
+      "1/2 cup coconut water",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "pineapple",
+      "kale leaves",
+      "kale",
+      "greek yogurt",
+      "yogurt",
+      "coconut water",
+      "water",
+      "coconut",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Mango Avocado Elixir",
+    "image": "mango_avocado_elixir_smoothie.jpg",
+    "description": "Experience the creamy goodness of mango and avocado in this elixir-like smoothie.",
+    "preptime": "7 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup fresh mango chunks",
+      "1/2 avocado",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mango",
+      "avocado",
+      "almond milk",
+      "almond",
+      "milk",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Cranberry Orange Zing",
+    "image": "cranberry_orange_zing_smoothie.jpg",
+    "description": "Zing up your day with the tartness of cranberries and the citrusy kick of orange.",
+    "preptime": "5 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1/2 cup cranberries (fresh or frozen)",
+      "1 orange, peeled",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "cranberry",
+      "cranberries",
+      "orange",
+      "greek yogurt",
+      "yogurt",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Banana Almond Joy",
+    "image": "banana_almond_joy_smoothie.jpg",
+    "description": "Indulge in the joyous blend of banana, almonds, and coconut.",
+    "preptime": "8 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "2 bananas",
+      "1/4 cup almonds",
+      "1/2 cup coconut milk",
+      "1 tablespoon cocoa powder",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "banana",
+      "almond",
+      "almonds",
+      "coconut milk",
+      "coconut",
+      "milk",
+      "cocoa powder",
+      "cocoa",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Blueberry Matcha Zen",
+    "image": "blueberry_matcha_zen_smoothie.jpg",
+    "description": "Find your zen with the antioxidant power of blueberries and the calming essence of matcha.",
+    "preptime": "5 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup blueberries",
+      "1 teaspoon matcha powder",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "blueberries",
+      "matcha powder",
+      "matcha",
+      "almond milk",
+      "almond",
+      "milk",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Tropical Spinach Twist",
+    "image": "tropical_spinach_twist_smoothie.jpg",
+    "description": "Add a tropical twist to your day with the goodness of spinach and tropical fruits.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "Handful of spinach",
+      "1/2 cup pineapple chunks",
+      "1/2 cup mango chunks",
+      "1/2 cup coconut water",
+      "1 tablespoon chia seeds",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "spinach",
+      "pineapple",
+      "mango",
+      "coconut water",
+      "water",
+      "coconut",
+      "chia seeds",
+      "seeds",
+      "chia",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Raspberry Almond Bliss",
+    "image": "raspberry_almond_bliss_smoothie.jpg",
+    "description": "Experience bliss with the sweet-tartness of raspberries and the nuttiness of almonds.",
+    "preptime": "7 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup fresh raspberries",
+      "1/4 cup almonds",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "raspberries",
+      "almond",
+      "almonds",
+      "almond milk",
+      "milk",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Minty Watermelon Refresher",
+    "image": "minty_watermelon_refresher_smoothie.jpg",
+    "description": "Stay refreshed with the juicy sweetness of watermelon and the coolness of mint.",
+    "preptime": "5 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "2 cups watermelon cubes",
+      "Handful of fresh mint leaves",
+      "1/2 lime, juiced",
+      "1/2 cup coconut water",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "watermelon",
+      "mint leaves",
+      "mint",
+      "lime",
+      "coconut water",
+      "water",
+      "coconut",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Peach Passion Fusion",
+    "image": "peach_passion_fusion_smoothie.jpg",
+    "description": "Fuse the passion of tropical fruits with the sweetness of peaches.",
+    "preptime": "5 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup sliced peaches",
+      "1/2 cup passion fruit pulp",
+      "1/2 cup coconut milk",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "peach",
+      "peaches",
+      "fruit pulp",
+      "coconut milk",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Apple Cinnamon Delight",
+    "image": "apple_cinnamon_delight_smoothie.jpg",
+    "description": "Delight your taste buds with the classic combination of apple and cinnamon.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 apple, cored and sliced",
+      "1/2 teaspoon ground cinnamon",
+      "1/2 cup vanilla yogurt",
+      "1/2 cup almond milk",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "apple",
+      "cinnamon",
+      "vanilla yogurt",
+      "yogurt",
+      "almond milk",
+      "milk",
+      "almond",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Chia Berry Blast",
+    "image": "chia_berry_blast_smoothie.jpg",
+    "description": "Blast your day with the nutritious goodness of chia seeds and mixed berries.",
+    "preptime": "7 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "2 tablespoons chia seeds",
+      "1 cup mixed berries (strawberries, blueberries, raspberries)",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "chia seeds",
+      "seeds",
+      "chia",
+      "almond milk",
+      "almond",
+      "milk",
+      "berries",
+      "strawberries",
+      "blueberries",
+      "raspberries",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Coconut Pineapple Paradise",
+    "image": "coconut_pineapple_paradise_smoothie.jpg",
+    "description": "Escape to a tropical paradise with the exotic blend of coconut and pineapple.",
+    "preptime": "5 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1/2 cup coconut milk",
+      "1 cup pineapple chunks",
+      "1 banana",
+      "1 tablespoon shredded coconut",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "coconut milk",
+      "milk",
+      "coconut",
+      "pineapple",
+      "banana",
+      "coconut",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Blueberry Acai Boost",
+    "image": "blueberry_acai_boost_smoothie.jpg",
+    "description": "Boost your day with the antioxidant power of blueberries and acai.",
+    "preptime": "8 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup blueberries",
+      "1 packet acai puree",
+      "1/2 cup vanilla yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "blueberries",
+      "acai puree",
+      "acai",
+      "vanilla yogurt",
+      "yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Pistachio Cherry Bliss",
+    "image": "pistachio_cherry_bliss_smoothie.jpg",
+    "description": "Experience bliss with the unique combination of pistachios and sweet cherries.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1/4 cup pistachios",
+      "1 cup sweet cherries, pitted",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "pista",
+      "pistachios",
+      "cherries",
+      "almond milk",
+      "milk",
+      "almond",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Mango Raspberry Sunrise",
+    "image": "mango_raspberry_sunrise_smoothie.jpg",
+    "description": "Start your day with the vibrant colors and flavors of mango and raspberries.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 cup fresh mango chunks",
+      "1/2 cup fresh raspberries",
+      "1/2 cup orange juice",
+      "1/2 cup coconut water",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mango",
+      "raspberries",
+      "orange juice",
+      "orange",
+      "coconut",
+      "coconut water",
+      "water",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Vanilla Berry Swirl",
+    "image": "vanilla_berry_swirl_smoothie.jpg",
+    "description": "Indulge in the sweet swirl of vanilla and mixed berries.",
+    "preptime": "7 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1/2 cup vanilla yogurt",
+      "1 cup mixed berries (strawberries, blueberries, raspberries)",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "vanilla yogurt",
+      "yogurt",
+      "berries",
+      "strawberries",
+      "raspberries",
+      "blueberries",
+      "almond milk",
+      "milk",
+      "almond",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Blackberry Basil Refresher",
+    "image": "blackberry_basil_refresher_smoothie.jpg",
+    "description": "Refresh your palate with the unique combination of blackberries and fresh basil.",
+    "preptime": "8 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "1 cup fresh blackberries",
+      "Handful of fresh basil leaves",
+      "1/2 cup coconut water",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "blackberries",
+      "basil leaves",
+      "basil",
+      "coconut water",
+      "water",
+      "coconut",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Turmeric Mango Lassi",
+    "image": "turmeric_mango_lassi_smoothie.jpg",
+    "description": "Experience the golden goodness of turmeric in this mango lassi-inspired smoothie.",
+    "preptime": "5 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1/2 teaspoon turmeric powder",
+      "1 cup fresh mango chunks",
+      "1/2 cup plain yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "turmeric powder",
+      "turmeric",
+      "mango",
+      "yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Raspberry Coconut Dream",
+    "image": "raspberry_coconut_dream_smoothie.jpg",
+    "description": "Dreamy combination of raspberries and coconut for a tropical delight.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 cup fresh raspberries",
+      "1/2 cup coconut milk",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "raspberries",
+      "coconut milk",
+      "milk",
+      "coconut",
+      "greek yogurt",
+      "yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Pineapple Kiwi Quencher",
+    "image": "pineapple_kiwi_quencher_smoothie.jpg",
+    "description": "Quench your thirst with the tropical blend of pineapple and kiwi.",
+    "preptime": "7 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1 cup pineapple chunks",
+      "2 kiwis, peeled and sliced",
+      "1/2 cup coconut water",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "pineapple",
+      "kiwi",
+      "kiwis",
+      "coconut water",
+      "coconut",
+      "water",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Matcha Banana Elevation",
+    "image": "matcha_banana_elevation_smoothie.jpg",
+    "description": "Elevate your day with the energizing blend of matcha and banana.",
+    "preptime": "5 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 teaspoon matcha powder",
+      "1 banana",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "matcha powder",
+      "matcha",
+      "banana",
+      "almond milk",
+      "almond",
+      "milk",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Orange Berry Burst",
+    "image": "orange_berry_burst_smoothie.jpg",
+    "description": "Experience a burst of citrusy sweetness with the combination of orange and mixed berries.",
+    "preptime": "8 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 orange, peeled",
+      "1/2 cup mixed berries (strawberries, blueberries, raspberries)",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "orange",
+      "berries",
+      "strawberries",
+      "blueberries",
+      "raspberries",
+      "greek yogurt",
+      "yogurt",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Hazelnut Raspberry Delight",
+    "image": "hazelnut_raspberry_delight_smoothie.jpg",
+    "description": "Delight in the nutty richness of hazelnuts paired with the sweetness of raspberries.",
+    "preptime": "6 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1/4 cup hazelnuts",
+      "1 cup fresh raspberries",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "hazelnut",
+      "hazelnuts",
+      "raspberries",
+      "almond milk",
+      "milk",
+      "almond",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Cinnamon Apple Pie Delight",
+    "image": "cinnamon_apple_pie_delight_smoothie.jpg",
+    "description": "Indulge in the comforting flavors of cinnamon and apple pie in a healthy smoothie.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 apple, cored and sliced",
+      "1/2 teaspoon ground cinnamon",
+      "1/2 cup vanilla yogurt",
+      "1/2 cup almond milk",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "apple",
+      "cinnamon",
+      "vanilla yogurt",
+      "yogurt",
+      "almond milk",
+      "milk",
+      "almond",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Minty Mango Mojito",
+    "image": "minty_mango_mojito_smoothie.jpg",
+    "description": "Enjoy a tropical twist with the freshness of mint and the sweetness of mango.",
+    "preptime": "7 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup fresh mango chunks",
+      "Handful of fresh mint leaves",
+      "1/2 lime, juiced",
+      "1/2 cup coconut water",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mango",
+      "mint leaves",
+      "mint",
+      "lime",
+      "coconut water",
+      "water",
+      "coconut",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Triple Berry Medley",
+    "image": "triple_berry_medley_smoothie.jpg",
+    "description": "Experience the medley of flavors with strawberries, blueberries, and raspberries.",
+    "preptime": "8 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "1 cup mixed berries (strawberries, blueberries, raspberries)",
+      "1/2 cup Greek yogurt",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "berries",
+      "strawberries",
+      "blueberries",
+      "raspberries",
+      "almond milk",
+      "almond",
+      "milk",
+      "greek yogurt",
+      "yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Papaya Coconut Bliss",
+    "image": "papaya_coconut_bliss_smoothie.jpg",
+    "description": "Experience bliss with the tropical combination of papaya and coconut.",
+    "preptime": "5 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup fresh papaya chunks",
+      "1/2 cup coconut milk",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "papaya",
+      "coconut milk",
+      "milk",
+      "greek yogurt",
+      "yogurt",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Carrot Orange Burst",
+    "image": "carrot_orange_burst_smoothie.jpg",
+    "description": "Experience a burst of vitamins with the combination of carrots and oranges.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 cup carrot juice",
+      "1 orange, peeled",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "carrot",
+      "orange juice",
+      "orange",
+      "greek yogurt",
+      "yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Mango Coconut Chia Delight",
+    "image": "mango_coconut_chia_delight_smoothie.jpg",
+    "description": "Delight in the tropical fusion of mango, coconut, and chia seeds.",
+    "preptime": "7 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1 cup fresh mango chunks",
+      "1/2 cup coconut milk",
+      "2 tablespoons chia seeds",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mango",
+      "coconut milk",
+      "coconut",
+      "milk",
+      "chia seeds",
+      "chia",
+      "seeds",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Blueberry Lavender Infusion",
+    "image": "blueberry_lavender_infusion_smoothie.jpg",
+    "description": "Infuse your day with the delicate flavors of blueberries and lavender.",
+    "preptime": "5 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 cup blueberries",
+      "1 teaspoon dried lavender buds",
+      "1/2 cup vanilla yogurt",
+      "1/2 cup almond milk",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "blueberries",
+      "lavender buds",
+      "vanilla yogurt",
+      "yogurt",
+      "almond milk",
+      "milk",
+      "almond",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Banana Walnut Energy Boost",
+    "image": "banana_walnut_energy_boost_smoothie.jpg",
+    "description": "Boost your energy with the nutritious combination of banana and walnuts.",
+    "preptime": "8 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "2 bananas",
+      "1/4 cup walnuts",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "banana",
+      "walnut",
+      "almond milk",
+      "milk",
+      "almond",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Strawberry Basil Bliss",
+    "image": "strawberry_basil_bliss_smoothie.jpg",
+    "description": "Experience bliss with the sweet-tartness of strawberries and the freshness of basil.",
+    "preptime": "6 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1 cup fresh strawberries, hulled",
+      "Handful of fresh basil leaves",
+      "1/2 cup coconut water",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "strawberries",
+      "basil leaves",
+      "basil",
+      "coconut water",
+      "water",
+      "coconut",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Pineapple Mint Splash",
+    "image": "pineapple_mint_splash_smoothie.jpg",
+    "description": "Splash into freshness with the tropical combination of pineapple and mint.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 cup pineapple chunks",
+      "Handful of fresh mint leaves",
+      "1/2 cup coconut water",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "pineapple",
+      "mint leaves",
+      "mint",
+      "coconut water",
+      "coconut",
+      "water",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Dragon Fruit Berry Bliss",
+    "image": "dragon_fruit_berry_bliss_smoothie.jpg",
+    "description": "Experience the blissful blend of dragon fruit and mixed berries.",
+    "preptime": "7 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup fresh dragon fruit, cubed",
+      "1/2 cup mixed berries (strawberries, blueberries, raspberries)",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "dragon fruit",
+      "berries",
+      "strawberries",
+      "blueberries",
+      "raspberries",
+      "greek yogurt",
+      "yogurt",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Pomegranate Orange Elixir",
+    "image": "pomegranate_orange_elixir_smoothie.jpg",
+    "description": "Indulge in the elixir of pomegranate and the citrusy kick of oranges.",
+    "preptime": "5 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1/2 cup pomegranate seeds",
+      "1 orange, peeled",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "pomegranate seeds",
+      "pomegranate",
+      "orange",
+      "greek yogurt",
+      "yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Cherry Almond Delight",
+    "image": "cherry_almond_delight_smoothie.jpg",
+    "description": "Delight your taste buds with the sweet-tartness of cherries and the crunchiness of almonds.",
+    "preptime": "8 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "1 cup sweet cherries, pitted",
+      "1/4 cup almonds",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "cherries",
+      "almond",
+      "almonds",
+      "milk",
+      "almond milk",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Avocado Banana Cream",
+    "image": "avocado_banana_cream_smoothie.jpg",
+    "description": "Creamy goodness with the nutritious blend of avocado and banana.",
+    "preptime": "5 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1/2 avocado",
+      "1 banana",
+      "1/2 cup plain yogurt",
+      "1/2 cup almond milk",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "avocado",
+      "banana",
+      "yogurt",
+      "almond milk",
+      "milk",
+      "almond",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Mango Kiwi Zinger",
+    "image": "mango_kiwi_zinger_smoothie.jpg",
+    "description": "Zing up your day with the tropical flavors of mango and kiwi.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 cup fresh mango chunks",
+      "2 kiwis, peeled and sliced",
+      "1/2 cup coconut water",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mango",
+      "kiwi",
+      "kiwis",
+      "coconut water",
+      "water",
+      "coconut",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Spinach Pineapple Elevation",
+    "image": "spinach_pineapple_elevation_smoothie.jpg",
+    "description": "Elevate your nutrition with the powerhouse combination of spinach and pineapple.",
+    "preptime": "7 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "Handful of spinach",
+      "1 cup pineapple chunks",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon chia seeds",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "spinach",
+      "pineapple",
+      "greek yogurt",
+      "yogurt",
+      "chia seeds",
+      "chia",
+      "seeds",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Coconut Berry Breeze",
+    "image": "coconut_berry_breeze_smoothie.jpg",
+    "description": "Breeze into tropical bliss with the combination of coconut and mixed berries.",
+    "preptime": "5 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1/2 cup coconut milk",
+      "1 cup mixed berries (strawberries, blueberries, raspberries)",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "coconut milk",
+      "milk",
+      "coconut",
+      "berries",
+      "strawberries",
+      "blueberries",
+      "raspberries",
+      "greek yogurt",
+      "yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Peach Mint Fusion",
+    "image": "peach_mint_fusion_smoothie.jpg",
+    "description": "Fusion of sweetness and freshness with peaches and mint.",
+    "preptime": "8 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup sliced peaches",
+      "Handful of fresh mint leaves",
+      "1/2 cup coconut water",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "peach",
+      "peaches",
+      "mint leaves",
+      "mint",
+      "agave syrup",
+      "agave",
+      "coconut water",
+      "water",
+      "coconut",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Berry Pistachio Delight",
+    "image": "berry_pistachio_delight_smoothie.jpg",
+    "description": "Delight in the unique combination of berries and the crunchiness of pistachios.",
+    "preptime": "6 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1 cup mixed berries (strawberries, blueberries, raspberries)",
+      "1/4 cup pistachios",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "berries",
+      "strawberries",
+      "blueberries",
+      "raspberries",
+      "pista",
+      "pistachios",
+      "almond milk",
+      "milk",
+      "almond",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Cranberry Orange Burst",
+    "image": "cranberry_orange_burst_smoothie.jpg",
+    "description": "Experience a burst of tangy sweetness with the combination of cranberries and oranges.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1/2 cup cranberries",
+      "1 orange, peeled",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "cranberries",
+      "cranberry",
+      "orange",
+      "greek yogurt",
+      "yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Chocolate Raspberry Indulgence",
+    "image": "chocolate_raspberry_indulgence_smoothie.jpg",
+    "description": "Indulge in the rich combination of chocolate and the tartness of raspberries.",
+    "preptime": "7 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "2 tablespoons cocoa powder",
+      "1 cup fresh raspberries",
+      "1/2 cup almond milk",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "cocoa powder",
+      "cocoa",
+      "raspberries",
+      "almond milk",
+      "milk",
+      "almond",
+      "agave",
+      "agave syrup",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Raspberry Mango Delight",
+    "image": "raspberry_mango_delight_smoothie.jpg",
+    "description": "Delight in the delightful combination of raspberries and mango.",
+    "preptime": "8 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "1 cup fresh raspberries",
+      "1 cup fresh mango chunks",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon chia seeds",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "raspberries",
+      "mango",
+      "greek yogurt",
+      "yogurt",
+      "chia seeds",
+      "seeds",
+      "chia",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Blueberry Lemonade Splash",
+    "image": "blueberry_lemonade_splash_smoothie.jpg",
+    "description": "Splash into the refreshing flavors of blueberries and lemonade.",
+    "preptime": "5 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup blueberries",
+      "1/2 cup lemonade",
+      "1/2 cup vanilla yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "blueberries",
+      "lemon",
+      "lemonade",
+      "vanilla yogurt",
+      "yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Strawberry Pineapple Bliss",
+    "image": "strawberry_pineapple_bliss_smoothie.jpg",
+    "description": "Experience bliss with the tropical fusion of strawberries and pineapple.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 cup fresh strawberries, hulled",
+      "1 cup pineapple chunks",
+      "1/2 cup coconut milk",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "strawberries",
+      "pineapple",
+      "coconut milk",
+      "milk",
+      "coconut",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Almond Berry Crunch",
+    "image": "almond_berry_crunch_smoothie.jpg",
+    "description": "Crunchy delight with the nuttiness of almonds and the sweetness of mixed berries.",
+    "preptime": "7 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1/4 cup almonds",
+      "1 cup mixed berries (strawberries, blueberries, raspberries)",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "almond",
+      "almonds",
+      "berries",
+      "strawberries",
+      "raspberries",
+      "blueberries",
+      "almond",
+      "almond milk",
+      "milk",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Melon Mint Refresher",
+    "image": "melon_mint_refresher_smoothie.jpg",
+    "description": "Refresh your palate with the coolness of melon and the freshness of mint.",
+    "preptime": "5 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "2 cups melon cubes (cantaloupe or honeydew)",
+      "Handful of fresh mint leaves",
+      "1/2 lime, juiced",
+      "1/2 cup coconut water",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "melon",
+      "cantaloupe",
+      "honeydew",
+      "mint leaves",
+      "mint",
+      "lime",
+      "coconut water",
+      "water",
+      "coconut",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Peach Raspberry Fusion",
+    "image": "peach_raspberry_fusion_smoothie.jpg",
+    "description": "Fusion of sweetness with the combination of peaches and raspberries.",
+    "preptime": "8 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup sliced peaches",
+      "1 cup fresh raspberries",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "peach",
+      "peaches",
+      "greek yogurt",
+      "yogurt",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Mango Ginger Zinger",
+    "image": "mango_ginger_zinger_smoothie.jpg",
+    "description": "Zing up your day with the tropical flavors of mango and the kick of fresh ginger.",
+    "preptime": "6 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1 cup fresh mango chunks",
+      "1/2 teaspoon fresh ginger, grated",
+      "1/2 cup coconut water",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mango",
+      "giner",
+      "coconut water",
+      "coconut",
+      "water",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Mint Chocolate Chip Delight",
+    "image": "mint_chocolate_chip_delight_smoothie.jpg",
+    "description": "Delight in the refreshing combination of mint and the richness of chocolate chips.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "Handful of fresh mint leaves",
+      "2 tablespoons chocolate chips",
+      "1 banana",
+      "1/2 cup almond milk",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mint leaves",
+      "mint",
+      "chocolate",
+      "chocolate chips",
+      "banana",
+      "almond milk",
+      "almond",
+      "milk",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Kiwi Berry Blast",
+    "image": "kiwi_berry_blast_smoothie.jpg",
+    "description": "Experience a blast of flavors with the combination of kiwi and mixed berries.",
+    "preptime": "7 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "2 kiwis, peeled and sliced",
+      "1 cup mixed berries (strawberries, blueberries, raspberries)",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "kiwi",
+      "kiwis",
+      "berries",
+      "strawberries",
+      "blueberries",
+      "raspberries",
+      "greek yogurt",
+      "yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Hazelnut Espresso Elixir",
+    "image": "hazelnut_espresso_elixir_smoothie.jpg",
+    "description": "Indulge in the rich elixir of hazelnuts and the energizing kick of espresso.",
+    "preptime": "5 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1/4 cup hazelnuts",
+      "1 shot of espresso, cooled",
+      "1 banana",
+      "1/2 cup milk (dairy or plant-based)",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "hazelnut",
+      "hazelnuts",
+      "espresso",
+      "banana",
+      "milk",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Pina Colada Paradise",
+    "image": "pina_colada_paradise_smoothie.jpg",
+    "description": "Escape to a tropical paradise with the classic combination of pineapple and coconut.",
+    "preptime": "8 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "1 cup pineapple chunks",
+      "1/2 cup coconut milk",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "pineapple",
+      "coconut milk",
+      "coconut",
+      "milk",
+      "greek yogurt",
+      "yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Banana Berry Crunch",
+    "image": "banana_berry_crunch_smoothie.jpg",
+    "description": "Crunchy delight with the sweetness of bananas and the texture of granola.",
+    "preptime": "5 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 banana",
+      "1 cup mixed berries (strawberries, blueberries, raspberries)",
+      "1/4 cup granola",
+      "1/2 cup almond milk",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "banana",
+      "berries",
+      "strawberries",
+      "blueberries",
+      "raspberries",
+      "granola",
+      "almond milk",
+      "milk",
+      "almond",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Cherry Vanilla Dream",
+    "image": "cherry_vanilla_dream_smoothie.jpg",
+    "description": "Dreamy combination of sweet cherries and the smoothness of vanilla.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 cup sweet cherries, pitted",
+      "1/2 cup vanilla yogurt",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "cherries",
+      "vanilla yogurt",
+      "yogurt",
+      "almond milk",
+      "milk",
+      "almond",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Cucumber Melon Cooler",
+    "image": "cucumber_melon_cooler_smoothie.jpg",
+    "description": "Cool off with the hydrating combination of cucumber and refreshing melon.",
+    "preptime": "7 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1/2 cucumber",
+      "2 cups melon cubes (cantaloupe or honeydew)",
+      "1/2 cup coconut water",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "cucumber",
+      "melon",
+      "cantaloupe",
+      "honeydew",
+      "coconut water",
+      "water",
+      "coconut",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Matcha Berry Boost",
+    "image": "matcha_berry_boost_smoothie.jpg",
+    "description": "Boost your day with the antioxidant-rich blend of matcha and mixed berries.",
+    "preptime": "5 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 teaspoon matcha powder",
+      "1 cup mixed berries (strawberries, blueberries, raspberries)",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "matcha powder",
+      "matcha",
+      "berries",
+      "strawberries",
+      "raspberries",
+      "blueberries",
+      "almond milk",
+      "milk",
+      "almond",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Orange Creamsicle Crush",
+    "image": "orange_creamsicle_crush_smoothie.jpg",
+    "description": "Crush into the nostalgic flavors of orange creamsicle.",
+    "preptime": "8 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 orange, peeled",
+      "1/2 cup vanilla yogurt",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "orange",
+      "vanilla yogurt",
+      "yogurt",
+      "almond milk",
+      "milk",
+      "almond",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Mocha Banana Delight",
+    "image": "mocha_banana_delight_smoothie.jpg",
+    "description": "Delight in the delightful combination of mocha and the sweetness of bananas.",
+    "preptime": "7 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 shot of espresso, cooled",
+      "1 banana",
+      "2 tablespoons cocoa powder",
+      "1/2 cup almond milk",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "espresso",
+      "banana",
+      "cocoa powder",
+      "cocoa",
+      "almond milk",
+      "milk",
+      "almond",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Berry Citrus Splash",
+    "image": "berry_citrus_splash_smoothie.jpg",
+    "description": "Splash into the refreshing blend of mixed berries and citrus fruits.",
+    "preptime": "5 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1 cup mixed berries (strawberries, blueberries, raspberries)",
+      "1 orange, peeled",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "berries",
+      "strawberries",
+      "raspberries",
+      "blueberries",
+      "greek yogurt",
+      "yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Banana Peanut Butter Crunch",
+    "image": "banana_peanut_butter_crunch_smoothie.jpg",
+    "description": "Crunchy delight with the classic combination of banana and peanut butter.",
+    "preptime": "8 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "2 bananas",
+      "2 tablespoons peanut butter",
+      "1/4 cup granola",
+      "1/2 cup milk (dairy or plant-based)",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "banana",
+      "peanut butter",
+      "butter",
+      "granola",
+      "milk",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Mango Basil Breeze",
+    "image": "mango_basil_breeze_smoothie.jpg",
+    "description": "Breeze into freshness with the tropical blend of mango and basil.",
+    "preptime": "5 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 cup fresh mango chunks",
+      "Handful of fresh basil leaves",
+      "1/2 cup coconut water",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mango",
+      "basil leaves",
+      "basil",
+      "coconut water",
+      "water",
+      "coconut",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Cherry Pineapple Paradise",
+    "image": "cherry_pineapple_paradise_smoothie.jpg",
+    "description": "Escape to a paradise with the sweetness of cherries and the tropical vibes of pineapple.",
+    "preptime": "8 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup sweet cherries, pitted",
+      "1 cup pineapple chunks",
+      "1/2 cup coconut milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "cherries",
+      "pineapple",
+      "coconut milk",
+      "milk",
+      "coconut",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Blueberry Mint Marvel",
+    "image": "blueberry_mint_marvel_smoothie.jpg",
+    "description": "Marvel at the refreshing blend of blueberries and the coolness of fresh mint.",
+    "preptime": "6 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1 cup blueberries",
+      "Handful of fresh mint leaves",
+      "1/2 cup vanilla yogurt",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "blueberries",
+      "mint leaves",
+      "mint",
+      "vanilla yogurt",
+      "yogurt",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Pomegranate Blueberry Burst",
+    "image": "pomegranate_blueberry_burst_smoothie.jpg",
+    "description": "Burst into antioxidants with the vibrant combination of pomegranate and blueberries.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1/2 cup pomegranate seeds",
+      "1 cup blueberries",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "pomegranate",
+      "pomegranate seeds",
+      "blueberries",
+      "greek yogurt",
+      "yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Vanilla Almond Joy",
+    "image": "vanilla_almond_joy_smoothie.jpg",
+    "description": "Indulge in the joy of vanilla and the nutty goodness of almonds.",
+    "preptime": "7 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1/2 teaspoon vanilla extract",
+      "1/4 cup almonds",
+      "1 banana",
+      "1/2 cup almond milk",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "vanilla extract",
+      "almond",
+      "almonds",
+      "banana",
+      "almond milk",
+      "milk",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Mango Raspberry Fusion",
+    "image": "mango_raspberry_fusion_smoothie.jpg",
+    "description": "Fusion of tropical sweetness with mango and the tartness of raspberries.",
+    "preptime": "5 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1 cup fresh mango chunks",
+      "1 cup fresh raspberries",
+      "1/2 cup coconut water",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mango",
+      "raspberries",
+      "coconut water",
+      "coconut",
+      "water",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Green Tea Berry Boost",
+    "image": "green_tea_berry_boost_smoothie.jpg",
+    "description": "Boost your day with the antioxidant power of green tea and mixed berries.",
+    "preptime": "8 minutes",
+    "rating": 4.6,
+    "ingredients": [
+      "1 green tea bag, brewed and cooled",
+      "1 cup mixed berries (strawberries, blueberries, raspberries)",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "green tea",
+      "tea",
+      "berries",
+      "strawberries",
+      "blueberries",
+      "raspberries",
+      "greek yogurt",
+      "yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Peach Raspberry Sunrise",
+    "image": "peach_raspberry_sunrise_smoothie.jpg",
+    "description": "Start your day with the sunrise flavors of peaches and raspberries.",
+    "preptime": "5 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup sliced peaches",
+      "1 cup fresh raspberries",
+      "1/2 cup vanilla yogurt",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "peach",
+      "peaches",
+      "raspberries",
+      "vanilla yogurt",
+      "yogurt",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Cinnamon Apple Delight",
+    "image": "cinnamon_apple_delight_smoothie.jpg",
+    "description": "Delight in the warmth of cinnamon and the sweetness of apples.",
+    "preptime": "6 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 apple, cored and sliced",
+      "1/2 teaspoon ground cinnamon",
+      "1/2 cup almond milk",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "apple",
+      "cinnamon",
+      "almond milk",
+      "milk",
+      "almond",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Coconut Mango Basil Bliss",
+    "image": "coconut_mango_basil_bliss_smoothie.jpg",
+    "description": "Blissful fusion of coconut, mango, and the freshness of basil.",
+    "preptime": "7 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1 cup fresh mango chunks",
+      "1/2 cup coconut milk",
+      "Handful of fresh basil leaves",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mango",
+      "coconut milk",
+      "milk",
+      "coconut",
+      "basil leaves",
+      "basil",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Pear Spinach Refresher",
+    "image": "pear_spinach_refresher_smoothie.jpg",
+    "description": "Refresh your palate with the unique blend of pear sweetness and the earthiness of spinach.",
+    "preptime": "5 minutes",
+    "rating": 4.8,
+    "ingredients": [
+      "1 pear, cored and sliced",
+      "Handful of spinach",
+      "1/2 cup coconut water",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "pear",
+      "spinach",
+      "coconut water",
+      "water",
+      "coconut",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Raspberry Lemonade Splash",
+    "image": "raspberry_lemonade_splash_smoothie.jpg",
+    "description": "Splash into the refreshing blend of raspberries and lemonade.",
+    "preptime": "8 minutes",
+    "rating": 4.7,
+    "ingredients": [
+      "1 cup fresh raspberries",
+      "1/2 cup lemonade",
+      "1/2 cup Greek yogurt",
+      "1 tablespoon agave syrup",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "raspberries",
+      "lemonade",
+      "greek yogurt",
+      "yogurt",
+      "agave syrup",
+      "agave",
+      "ice cubes",
+      "icecubes"
+    ]
+  },
+  {
+    "title": "Turmeric Mango Zinger",
+    "image": "turmeric_mango_zinger_smoothie.jpg",
+    "description": "Zing up your day with the tropical flavors of mango and the anti-inflammatory benefits of turmeric.",
+    "preptime": "6 minutes",
+    "rating": 4.9,
+    "ingredients": [
+      "1 cup fresh mango chunks",
+      "1/2 teaspoon turmeric powder",
+      "1/2 cup coconut water",
+      "1 tablespoon honey",
+      "Ice cubes"
+    ],
+    "keywords": [
+      "mango",
+      "turmeric powder",
+      "turmeric",
+      "coconut water",
+      "water",
+      "coconut",
+      "honey",
+      "ice cubes",
+      "icecubes"
+    ]
+  }
+]
