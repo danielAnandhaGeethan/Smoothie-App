@@ -2,6 +2,7 @@ const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
 const smoothiesRoute = require("./routes/smoothiesRoute");
+const usersRoute = require("./routes/usersRoute");
 
 const PORT = 5555;
 const url = "mongodb://127.0.0.1:27017/dj";
@@ -17,6 +18,7 @@ app.get("/", (req, res) => {
 });
 
 app.use("/smoothies", smoothiesRoute);
+app.use("/users", usersRoute);
 
 mongoose
   .connect(url)
