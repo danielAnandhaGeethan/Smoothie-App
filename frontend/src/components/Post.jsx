@@ -16,7 +16,7 @@ const Post = () => {
 
   const addToDatabase = () => {
     if (
-      !title === "" ||
+      title === "" ||
       description === "" ||
       preptime === "" ||
       rating === "" ||
@@ -44,18 +44,26 @@ const Post = () => {
     setKeywords([]);
 
     axios.post("http://localhost:5555/smoothies", smoothie).then((res) => {
-      enqueueSnackbar("Smoothie Added", { variant: "success" });
+      enqueueSnackbar("Smoothie Added", {
+        variant: "success",
+        autoHideDuration: 4000,
+      });
     });
   };
 
   return (
-    <div className="w-full h-full pt-20 mb-10" name="post">
+    <div
+      className="w-full h-full pt-[67px] mb-10 flex justify-center"
+      name="post"
+    >
       <SnackbarProvider />
       <div
-        className="flex justify-center"
-        style={{ backgroundImage: `url(${bg})`, backgroundSize: "cover" }}
+        className="flex justify-center mx-10 w-[65%] rounded-lg mt-[4px]"
+        style={{
+          backgroundImage: `url(${bg})`,
+        }}
       >
-        <div className="mx-20 2xl:mx-48 pt-10 pb-8 flex flex-col items-center gap-10 bg-black bg-opacity-20 w-[60%]">
+        <div className="mx-4 py-8 my-2 flex flex-col items-center gap-10 bg-black border border-black bg-opacity-20 rounded-lg">
           <div>
             <h1 className="text-3xl text-center text-white">
               {"Contribute your recipe and flavor the community".toUpperCase()}

@@ -36,7 +36,7 @@ const Form = ({
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-10 w-full justify-center">
         <div className="flex justify-center items-center">
           <div className="flex flex-col items-start">
-            <h1 className="text-lg text-white px-2">Prep time (in mins)</h1>
+            <h1 className="text-lg px-2 text-white">Prep time (in mins)</h1>
             <input
               value={preptime}
               className="shadow-lg px-5 py-2 rounded-full border border-t border-l outline-none"
@@ -56,7 +56,7 @@ const Form = ({
         </div>
         <div className="flex flex-col justify-center items-center">
           <div className="flex flex-col items-start">
-            <h1 className="text-lg text-white px-2">Rating</h1>
+            <h1 className="text-lg px-2 text-white">Rating</h1>
             <input
               value={rating}
               className="shadow-lg px-5 py-2 rounded-2xl border border-t border-l outline-none"

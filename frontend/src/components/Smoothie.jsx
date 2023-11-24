@@ -5,23 +5,26 @@ import liked from "../assets/liked.png";
 import not_liked from "../assets/not_liked.png";
 import { SnackbarProvider, enqueueSnackbar } from "notistack";
 
-const Smoothie = ({ index, smoothie, value, setValue, loggedIn }) => {
+const Smoothie = ({ index, smoothie, value, setValue, isLoggedIn }) => {
   const colors = [
-    "bg-yellow-500",
-    "bg-pink-500",
-    "bg-blue-500",
-    "bg-green-500",
-    "bg-orange-500",
-    "bg-purple-500",
-    "bg-red-500",
-    "bg-teal-500",
+    "bg-[#BD83B8]",
+    "bg-[#6DA5C0]",
+    "bg-[#1D1A39]",
+    "bg-[#F1916D]",
+    "bg-[#DFB6B2]",
+    "bg-[#AE445A]",
+    "bg-[#384358]",
+    "bg-[#854F6C]",
+    "bg-[#86A8CF]",
+    "bg-[#294D61]",
+    "bg-[#473E66]",
   ];
 
   return (
     <div className="my-3 flex flex-col items-center mb-20">
       <div
         className={`max-w-80 h-80 p-5 mx-5 w-80 rounded-xl border-black border-l border-t shadow-xl hover:scale-105 ${
-          colors[index <= 7 ? index : index % 8]
+          colors[index <= 10 ? index : index % 11]
         } bg-opacity-60`}
         onClick={() => setValue(value === index ? null : index)}
       >

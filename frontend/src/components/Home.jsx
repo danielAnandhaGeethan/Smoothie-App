@@ -6,16 +6,33 @@ import SearchBar from "./SearchBar";
 import SearchResults from "./SearchResults";
 import Post from "./Post";
 
-const Home = ({ loggedIn }) => {
+const Home = ({
+  isLoggedIn,
+  globalMbn,
+  globalUsername,
+  setGlobalUsername,
+  setGlobalMbn,
+  setIsLoggedIn,
+}) => {
   const [tags, setTags] = useState([]);
 
   return (
     <>
-      <NavBar />
+      <NavBar
+        isLoggedIn={isLoggedIn}
+        globalUsername={globalUsername}
+        setGlobalUsername={setGlobalUsername}
+        setGlobalMbn={setGlobalMbn}
+        setIsLoggedIn={setIsLoggedIn}
+      />
       <About />
       <Learn />
       <SearchBar tags={tags} setTags={setTags} />
-      <SearchResults tags={tags} loggedIn={loggedIn} />
+      <SearchResults
+        tags={tags}
+        isLoggedIn={isLoggedIn}
+        globalMbn={globalMbn}
+      />
       <Post />
     </>
   );

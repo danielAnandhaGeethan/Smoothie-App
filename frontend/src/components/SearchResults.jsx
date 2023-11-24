@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import Smoothie from "./Smoothie";
 
-const SearchResults = ({ tags, loggedIn }) => {
+const SearchResults = ({ tags, isLoggedIn }) => {
   const [smoothies, setSmoothies] = useState([]);
   const [dataAvailable, setDataAvailable] = useState(false);
   const [started, setStarted] = useState(false);
@@ -49,7 +49,7 @@ const SearchResults = ({ tags, loggedIn }) => {
               smoothie={smoothie}
               value={value}
               setValue={setValue}
-              loggedIn={loggedIn}
+              isLoggedIn={isLoggedIn}
             />
           ))}
         </div>

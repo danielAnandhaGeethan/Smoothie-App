@@ -17,7 +17,7 @@ const SearchBar = ({ tags, setTags }) => {
       return;
     }
 
-    const x = [...tags, search];
+    const x = [...tags, search.toLowerCase()];
     setTags(x);
     setSearch("");
   };

@@ -25,7 +25,7 @@ const About = () => {
   ];
 
   return (
-    <div className="mt-36 w-full" name="learn">
+    <div className="lg:block mt-36 w-full hidden" name="learn">
       <div className="p-20">
         <HeroSlider
           height="80vh"
