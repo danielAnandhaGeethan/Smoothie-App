@@ -2,9 +2,9 @@ import React from "react";
 import smoothie from "../assets/smoothie.png";
 import { Link } from "react-router-dom";
 
-const LoginNavbar = () => {
+const SecondNavbar = () => {
   return (
-    <div className="w-full fixed top-0 bg-white">
+    <div className="w-full fixed top-0 bg-transparent shadow-lg">
       <div className="flex p-4 justify-center">
         <Link to="/">
           <div className="flex gap-1 cursor-pointer">
@@ -17,4 +17,4 @@ const LoginNavbar = () => {
   );
 };
 
-export default LoginNavbar;
+export default SecondNavbar;

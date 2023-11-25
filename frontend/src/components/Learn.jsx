@@ -26,9 +26,9 @@ const About = () => {
 
   return (
     <div className="lg:block mt-36 w-full hidden" name="learn">
-      <div className="p-20">
+      <div className="py-20 px-48">
         <HeroSlider
-          height="80vh"
+          height="85vh"
           autoplay
           controller={{
             initialSlide: 1,
@@ -36,8 +36,8 @@ const About = () => {
             slidingDelay: 100,
           }}
         >
-          {content.map((display) => (
-            <div>
+          {content.map((display, index) => (
+            <div key={index}>
               <Slide
                 background={{
                   backgroundImage: `url(${display.image})`,
@@ -45,7 +45,7 @@ const About = () => {
                   backgroundPosition: "center",
                 }}
               >
-                <div className="relative h-full px-10 pb-32 pt-20 text-white bg-black bg-opacity-30 flex flex-col justify-between">
+                <div className="relative h-full gap-3 px-10 pb-32 pt-20 text-white bg-black bg-opacity-30 flex flex-col justify-between">
                   <div className="text-5xl font-bold font-serif">
                     {display.title}
                   </div>

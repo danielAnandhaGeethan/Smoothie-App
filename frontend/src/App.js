@@ -9,6 +9,7 @@ const App = () => {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [globalMbn, setGlobalMbn] = useState("");
   const [globalUsername, setGlobalUsername] = useState("");
+  const [globalPass, setGlobalPass] = useState("");
 
   return (
     <Routes>
@@ -22,6 +23,8 @@ const App = () => {
             setGlobalUsername={setGlobalUsername}
             setGlobalMbn={setGlobalMbn}
             setIsLoggedIn={setIsLoggedIn}
+            globalPass={globalPass}
+            setGlobalPass={setGlobalPass}
           />
         }
       />
@@ -32,6 +35,7 @@ const App = () => {
             setIsLoggedIn={setIsLoggedIn}
             setGlobalMbn={setGlobalMbn}
             setGlobalUsername={setGlobalUsername}
+            setGlobalPass={setGlobalPass}
           />
         }
       />
@@ -42,10 +46,20 @@ const App = () => {
             setIsLoggedIn={setIsLoggedIn}
             setGlobalMbn={setGlobalMbn}
             setGlobalUsername={setGlobalUsername}
+            setGlobalPass={setGlobalPass}
           />
         }
       />
-      <Route path="/favs" element={<Favourites />} />
+      <Route
+        path="/favs"
+        element={
+          <Favourites
+            globalMbn={globalMbn}
+            isLoggedIn={isLoggedIn}
+            globalPass={globalPass}
+          />
+        }
+      />
     </Routes>
   );
 };

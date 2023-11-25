@@ -1,17 +1,23 @@
 import React, { useState } from "react";
-import login from "../assets/login.jpg";
 import { enqueueSnackbar, SnackbarProvider } from "notistack";
-import LoginNavbar from "./LoginNavbar";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import axios from "axios";
+import SecondNavbar from "./SecondNavbar";
 
-const SignUp = ({ setIsLoggedIn, setGlobalMbn, setGlobalUsername }) => {
+const SignUp = ({
+  setIsLoggedIn,
+  setGlobalMbn,
+  setGlobalUsername,
+  setGlobalPass,
+}) => {
+  const navigate = useNavigate();
+
   const [mbn, setMbn] = useState("");
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const [rePassword, setRePassword] = useState("");
 
-  const signup = (e) => {
+  const signup = async (e) => {
     e.preventDefault();
 
     if (password !== rePassword) {
@@ -51,13 +57,18 @@ const SignUp = ({ setIsLoggedIn, setGlobalMbn, setGlobalUsername }) => {
         setPassword("");
         setRePassword("");
         setIsLoggedIn(true);
+        setGlobalPass(password);
+
+        setTimeout(() => {
+          navigate("/");
+        }, 1000);
       })
       .catch((err) => {
         if (err.response && err.response.data) {
           if (err.response.data.message === "User Already Exists") {
             enqueueSnackbar(err.response.data.message, {
               variant: "error",
-              autoHideDuration: 4000,
+              autoHideDuration: 3000,
             });
           }
         }
@@ -65,12 +76,9 @@ const SignUp = ({ setIsLoggedIn, setGlobalMbn, setGlobalUsername }) => {
   };
 
   return (
-    <div
-      className="h-screen flex justify-center items-center"
-      style={{ backgroundImage: `url(${login})`, backgroundSize: "cover" }}
-    >
+    <div className="h-screen flex justify-center items-center bg-gradient-to-b from-[#f9f8eb] via-[#ffe1b6] to-[#7a9eb1] via-[#415865]">
       <SnackbarProvider />
-      <LoginNavbar />
+      <SecondNavbar />
       <div className="border px-[60px] py-[40px] rounded-xl shadow-lg flex flex-col gap-[60px] bg-white bg-opacity-20 mt-[50px]">
         <div className="flex flex-wrap w-64">
           <h1 className="text-3xl text-center font-bold">

@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import Smoothie from "./Smoothie";
 
-const SearchResults = ({ tags, isLoggedIn }) => {
+const SearchResults = ({ tags, isLoggedIn, globalMbn, globalPass }) => {
   const [smoothies, setSmoothies] = useState([]);
   const [dataAvailable, setDataAvailable] = useState(false);
   const [started, setStarted] = useState(false);
@@ -50,6 +50,9 @@ const SearchResults = ({ tags, isLoggedIn }) => {
               value={value}
               setValue={setValue}
               isLoggedIn={isLoggedIn}
+              globalMbn={globalMbn}
+              globalPass={globalPass}
+              isFavouritePage={false}
             />
           ))}
         </div>

@@ -41,10 +41,32 @@ router.get("/:data", async (req, res) => {
     if (user.length === 1) {
       return res.status(200).json(user);
     } else {
-      return res.status(400).send(data);
+      return res.status(400).send({ message: "No such user" });
     }
   } catch (err) {
     return res.status(500).send({
+      message: err.message,
+    });
+  }
+});
+
+router.post("/:user", async (req, res) => {
+  try {
+    const { favs } = req.body;
+    const user = req.params.user.split(",");
+
+    const mbn = user[0];
+    const password = user[1];
+
+    const updatedUser = await User.findOneAndUpdate(
+      { mbn, password },
+      { $set: { favs } },
+      { new: true }
+    );
+
+    return res.status(201).send(favs);
+  } catch (err) {
+    res.status(500).send({
       message: err.message,
     });
   }

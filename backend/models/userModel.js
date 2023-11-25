@@ -14,7 +14,7 @@ const UserSchema = mongoose.Schema({
     required: true,
   },
   favs: {
-    type: [String],
+    type: [{}],
   },
 });
 
