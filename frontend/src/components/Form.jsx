@@ -21,7 +21,7 @@ const Form = ({
   setKeywords,
 }) => {
   return (
-    <div className="flex flex-col gap-10">
+    <div className="flex flex-col gap-8">
       <div className="flex flex-col items-center">
         <div>
           <h1 className="px-2 text-lg text-white">Name</h1>

@@ -5,6 +5,7 @@ import { Link as ScrollLink } from "react-scroll";
 import down from "../assets/down.png";
 import up from "../assets/up.png";
 import MenuBar from "./MenuBar";
+import { enqueueSnackbar, SnackbarProvider } from "notistack";
 
 const NavBar = ({
   isLoggedIn,
@@ -19,7 +20,6 @@ const NavBar = ({
 
   const logout = (e) => {
     e.preventDefault();
-
     setIsLoggedIn(false);
     setGlobalMbn("");
     setGlobalUsername("");
@@ -29,6 +29,7 @@ const NavBar = ({
 
   return (
     <div className="shadow-lg w-full fixed z-10 bg-white bg-opacity-10 top-0">
+      <SnackbarProvider />
       <div className="p-4 grid grid-cols-1 md:grid-cols-5 items-center">
         <div className="gap-8 hidden md:flex">
           <div>
@@ -56,9 +57,22 @@ const NavBar = ({
             </div>
           </div>
           <div>
-            <RouterLink to="/favs">
-              <span className="text-xl cursor-pointer">Favs</span>
-            </RouterLink>
+            {isLoggedIn ? (
+              <RouterLink to="/favs">
+                <span className="text-xl cursor-pointer">Favs</span>
+              </RouterLink>
+            ) : (
+              <div
+                onClick={() =>
+                  enqueueSnackbar("Login to access favourites.", {
+                    variant: "error",
+                    autoHideDuration: 3000,
+                  })
+                }
+              >
+                <span className="text-xl cursor-pointer">Favs</span>
+              </div>
+            )}
           </div>
         </div>
         <div className="hidden md:block"></div>
@@ -86,7 +100,7 @@ const NavBar = ({
             </div>
           </div>
           <RouterLink to="/">
-            <div className="flex gap-1 justify-center md:ml-[19px]">
+            <div className="flex gap-1 justify-center ml-[19px]">
               <img src={smoothie} alt="logo" className="h-8 w-7" />
               <h1 className="text-2xl">SmoothieSphere</h1>
             </div>

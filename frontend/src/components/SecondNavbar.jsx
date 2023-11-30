@@ -7,7 +7,7 @@ const SecondNavbar = () => {
     <div className="w-full fixed top-0 bg-transparent shadow-lg">
       <div className="flex p-4 justify-center">
         <Link to="/">
-          <div className="flex gap-1 cursor-pointer">
+          <div className="flex gap-1 cursor-pointer ml-[2px]">
             <img src={smoothie} alt="logo" className="h-8 w-7" />
             <span className="text-2xl">SmoothieSphere</span>
           </div>

@@ -57,7 +57,7 @@ const Post = () => {
     >
       <SnackbarProvider />
       <div className="flex justify-center mx-10 w-[65%] rounded-lg mt-[4px]">
-        <div className="mx-4 py-8 my-2 flex flex-col items-center gap-10 bg-black bg-opacity-20 rounded-lg shadow-lg">
+        <div className="mx-4 py-6 my-2 flex flex-col items-center gap-6 bg-black bg-opacity-20 rounded-lg shadow-lg">
           <div>
             <h1 className="text-3xl text-center text-white">
               {"Contribute your recipe and flavor the community".toUpperCase()}

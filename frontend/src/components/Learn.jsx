@@ -8,9 +8,9 @@ import benefit from "../assets/smoothie_benefit.jpg";
 const About = () => {
   const content = [
     {
-      title: "WHAT IS SMOOTHIE",
+      title: "WHAT IS A SMOOTHIE",
       image: desc,
-      text: "A smoothie is a blended beverage typically made by combining a variety of ingredients such as fruits, vegetables, liquids (like milk or yogurt), and additional elements like ice or sweeteners. The mixture is blended until smooth, resulting in a thick, creamy, and flavorful drink. Smoothies are popular for their refreshing and versatile nature, offering a convenient way to incorporate a wide range of nutrients into one tasty serving. They can be enjoyed as a quick and nutritious snack, a meal replacement, or a post-workout refresher. The beauty of smoothies lies in their adaptability, allowing individuals to tailor recipes to their taste preferences and dietary needs.",
+      text: "A smoothie is a blended beverage crafted by combining fruits, vegetables, liquids (such as milk or yogurt), and extras like ice or sweeteners. Blended until smooth, it yields a thick, creamy, and flavorful drink. Smoothies are renowned for their refreshing and flexible nature, providing a convenient means to pack a variety of nutrients into a single, delicious serving. Ideal for a quick and nutritious snack, a meal replacement, or a post-workout refresher, smoothies' beauty lies in their adaptability. Individuals can customize recipes to suit their taste preferences and dietary requirements.",
     },
     {
       title: "HISTORY OF SMOOTHIE",
@@ -26,9 +26,9 @@ const About = () => {
 
   return (
     <div className="lg:block mt-36 w-full hidden" name="learn">
-      <div className="py-20 px-48">
+      <div className="py-28 px-36">
         <HeroSlider
-          height="85vh"
+          height="75vh"
           autoplay
           controller={{
             initialSlide: 1,
@@ -38,18 +38,24 @@ const About = () => {
         >
           {content.map((display, index) => (
             <div key={index}>
-              <Slide
-                background={{
-                  backgroundImage: `url(${display.image})`,
-                  backgroundSize: "cover",
-                  backgroundPosition: "center",
-                }}
-              >
-                <div className="relative h-full gap-3 px-10 pb-32 pt-20 text-white bg-black bg-opacity-30 flex flex-col justify-between">
-                  <div className="text-5xl font-bold font-serif">
-                    {display.title}
+              <Slide>
+                <div
+                  style={{
+                    backgroundImage: `url(${display.image})`,
+                    backgroundSize: "cover",
+                    backgroundPosition: "center",
+                    borderRadius: "10%",
+                    height: "100%",
+                  }}
+                  className="px-10 pb-32 pt-20"
+                >
+                  <div className="relative h-[130%] bg-opacity-30 bg-black rounded-[30px] shadow-full blur-[3px]"></div>
+                  <div className="absolute -mt-[350px] z-10 text-white gap-5 py-5 px-10 flex flex-col justify-between">
+                    <div className="text-3xl font-bold font-serif">
+                      {display.title}
+                    </div>
+                    <div className="text-2xl font-serif">{display.text}</div>
                   </div>
-                  <div className="text-3xl font-serif">{display.text}</div>
                 </div>
               </Slide>
             </div>

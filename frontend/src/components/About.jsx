@@ -4,11 +4,11 @@ import about from "../assets/about.jpg";
 const About = () => {
   return (
     <div>
-      <div className="grid md:grid-cols-2 grid-cols-1 pt-48 px-32 gap-10">
+      <div className="grid md:grid-cols-2 grid-cols-1 pt-[85px] px-32 gap-24 md:gap-10">
         <div className="flex justify-center">
-          <h1 className="w-[70%] text-5xl text-center italic z-1 mt-[180px] lg:mt-0 py-20">
+          <h1 className="w-[70%] sm:text-5xl md:text-4xl lg:text-5xl text-center italic z-1 pt-20 md:py-10 lg:pt-20">
             Blend your way to bliss with Smoothie Bliss –{" "}
-            <span className="text-4xl text-gray-400">
+            <span className="sm:text-4xl md:text-3xl lg:text-4xl text-gray-400">
               where ingredients meet innovation, and your taste buds embark on a
               journey of pure delight!
             </span>
