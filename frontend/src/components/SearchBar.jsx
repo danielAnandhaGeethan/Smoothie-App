@@ -20,6 +20,8 @@ const SearchBar = ({ tags, setTags }) => {
     const x = [...tags, search.toLowerCase()];
     setTags(x);
     setSearch("");
+
+    console.log(tags);
   };
 
   const removeTag = (tag) => {

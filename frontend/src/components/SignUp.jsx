@@ -79,7 +79,7 @@ const SignUp = ({
     <div className="h-screen flex justify-center items-center bg-gradient-to-b from-[#f9f8eb] via-[#ffe1b6] to-[#7a9eb1] via-[#415865]">
       <SnackbarProvider />
       <SecondNavbar />
-      <div className="border px-[60px] py-[40px] rounded-xl shadow-lg flex flex-col gap-[60px] bg-white bg-opacity-20 mt-[50px]">
+      <div className="border px-[60px] py-[10px] rounded-xl shadow-lg flex flex-col gap-[60px] bg-white bg-opacity-20 mt-[50px]">
         <div className="flex flex-wrap w-64">
           <h1 className="text-3xl text-center font-bold">
             Sip up, sign up, cheers to a flavorful journey!

@@ -9,6 +9,7 @@ const SearchResults = ({ tags, isLoggedIn, globalMbn, globalPass }) => {
   const [value, setValue] = useState(null);
 
   useEffect(() => {
+    console.log("Search : " + tags);
     if (tags.length) {
       axios
         .get(`http://localhost:5555/smoothies/${tags}`)

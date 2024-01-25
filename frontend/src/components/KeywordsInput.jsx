@@ -25,7 +25,7 @@ const KeywordsInput = ({
             onChange={(e) => setKeywordTerm(e.target.value)}
           />
         </div>
-        <button className="flex flex-col justify-end absolute mt-9 ml-48 pl-3">
+        <button className="flex flex-col justify-end absolute mt-9 ml-[175px] pl-3">
           <img
             src={add}
             alt="Add"

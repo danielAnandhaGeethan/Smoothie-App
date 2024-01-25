@@ -17,7 +17,7 @@ const Smoothie = ({
   isFavouritePage,
 }) => {
   const [favs, setFavs] = useState([]);
-  const [heart, setHeart] = useState(null);
+  const [heart, setHeart] = useState(not_liked);
 
   const colors = [
     "bg-[#BD83B8]",
@@ -34,17 +34,21 @@ const Smoothie = ({
   ];
 
   useEffect(() => {
-    const data = [globalMbn, globalPass];
+    if (globalMbn && globalPass) {
+      const data = [globalMbn, globalPass];
 
-    axios.get(`http://localhost:5555/users/${data}`).then((res) => {
-      const userFavs = res.data[0].favs;
+      axios.get(`http://localhost:5555/users/${data}`).then((res) => {
+        const userFavs = res.data[0].favs;
 
-      setHeart(
-        userFavs.some((fav) => JSON.stringify(fav) === JSON.stringify(smoothie))
-          ? liked
-          : not_liked
-      );
-    });
+        setHeart(
+          userFavs.some(
+            (fav) => JSON.stringify(fav) === JSON.stringify(smoothie)
+          )
+            ? liked
+            : not_liked
+        );
+      });
+    }
   });
 
   const like = async () => {
@@ -103,8 +107,8 @@ const Smoothie = ({
       <div
         className={`${
           isFavouritePage
-            ? "max-w-80 h-80 p-5 w-80 rounded-xl border shadow-xl bg-[#f8fcfb] bg-opacity-20 hover:scale-105"
-            : "max-w-80 h-80 p-5 mx-5 w-80 rounded-xl border-black border-l border-t shadow-xl hover:scale-105 bg-opacity-60"
+            ? "max-w-80 h-80 p-5 w-72 rounded-xl border shadow-xl bg-[#f8fcfb] bg-opacity-20 hover:scale-105"
+            : "max-w-80 h-80 p-5 mx-5 w-72 rounded-xl border-black border-l border-t shadow-xl hover:scale-105 bg-opacity-60"
         } ${!isFavouritePage ? colors[index <= 10 ? index : index % 11] : ""}`}
         onClick={() => setValue(value === index ? null : index)}
       >
@@ -119,8 +123,10 @@ const Smoothie = ({
           </div>
         ) : (
           <div className="flex flex-col justify-between h-full">
-            <h1 className="text-2xl text-center">{smoothie.title}</h1>
-            <h1 className="text-lg">{smoothie.description}</h1>
+            <h1 className="text-2xl text-center py-1 rounded-xl px-8">
+              {smoothie.title}
+            </h1>
+            <h1 className="text-lg text-center">{smoothie.description}</h1>
             <div className="flex justify-between px-4">
               <h1 className="flex gap-1 items-center">
                 <img src={clock} className="h-5" alt="clock" />

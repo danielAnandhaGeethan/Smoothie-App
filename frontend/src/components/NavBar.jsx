@@ -35,14 +35,14 @@ const NavBar = ({
           <div>
             {isLoggedIn ? (
               <span
-                className="text-xl cursor-pointer bg-black p-2 rounded-full text-white"
+                className="text-lg cursor-pointer bg-black p-2 rounded-full text-white"
                 onClick={() => setIsNameClicked(!isNameClicked)}
               >
                 {globalUsername}
               </span>
             ) : (
               <RouterLink to="/login">
-                <span className="text-xl cursor-pointer">Login</span>
+                <span className="text-lg cursor-pointer">Login</span>
               </RouterLink>
             )}
             <div
@@ -53,13 +53,13 @@ const NavBar = ({
               }
               onClick={logout}
             >
-              <h1 className="text-white text-xl">Logout</h1>
+              <h1 className="text-white text-lg">Logout</h1>
             </div>
           </div>
           <div>
             {isLoggedIn ? (
               <RouterLink to="/favs">
-                <span className="text-xl cursor-pointer">Favs</span>
+                <span className="text-lg cursor-pointer">Favs</span>
               </RouterLink>
             ) : (
               <div
@@ -70,7 +70,7 @@ const NavBar = ({
                   })
                 }
               >
-                <span className="text-xl cursor-pointer">Favs</span>
+                <span className="text-lg cursor-pointer">Favs</span>
               </div>
             )}
           </div>
@@ -96,7 +96,7 @@ const NavBar = ({
               }
               onClick={logout}
             >
-              <h1 className="text-white text-xl">Logout</h1>
+              <h1 className="text-white text-lg">Logout</h1>
             </div>
           </div>
           <RouterLink to="/">
@@ -115,17 +115,17 @@ const NavBar = ({
         </div>
         <div className="hidden md:block"></div>
         <div className="md:flex gap-8 justify-end hidden">
-          <div className="text-xl">
+          <div className="text-lg">
             <ScrollLink to="learn" smooth={true} duration={1000}>
               <span className="cursor-pointer">Learn</span>
             </ScrollLink>
           </div>
-          <div className="text-xl">
+          <div className="text-lg">
             <ScrollLink to="find" smooth={true} duration={1000}>
               <span className="cursor-pointer">Find</span>
             </ScrollLink>
           </div>
-          <div className="text-xl">
+          <div className="text-lg">
             <ScrollLink to="post" smooth={true} duration={1000}>
               <span className="cursor-pointer">Post</span>
             </ScrollLink>
